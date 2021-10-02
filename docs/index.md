@@ -62,7 +62,7 @@ Using Azure Data and AI services to build, deploy and operationalize a model to 
 
 ## Demo Video
 
-![type:video](https://youtu.be/4OLR7smAfBM)
+![type:video](https://www.youtube.com/embed/4OLR7smAfBM)
 
 ## Helpful Links
 
